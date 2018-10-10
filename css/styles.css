@@ -1,0 +1,32 @@
+
+.green {
+    color: darkgreen;
+}
+
+.blue-border {
+    border: 2px solid blue;
+}
+
+.cursive-baby {
+    font-family: cursive
+}
+
+
+
+
+img {
+    box-shadow: 5px 5px #ba3333;
+}
+
+
+#special-pic {
+    box-shadow: 5px 5px yellow;
+    height: 200px
+}
+
+
+.corgi-gallery {
+    box-shadow: 5px 5px #00ff00;
+    height: 260px
+}
+
